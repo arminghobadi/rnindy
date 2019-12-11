@@ -10,6 +10,7 @@
 #import "ConnectMeVcx.h"
 #import "utils/NSError+VcxError.h"
 #import "utils/VcxCallbacks.h"
+#import "./include/libvcx.h"
 #import "vcx.h"
 #include "vcx.h"
 
