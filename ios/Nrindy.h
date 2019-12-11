@@ -1,5 +1,7 @@
 #import <React/RCTBridgeModule.h>
+#import <React/RCTEventEmitter.h>
 
-@interface Nrindy : NSObject <RCTBridgeModule>
+
+@interface RNIndy : RCTEventEmitter <RCTBridgeModule>
 
 @end
