@@ -2,6 +2,6 @@
 #import <React/RCTEventEmitter.h>
 
 
-@interface RNIndy : RCTEventEmitter <RCTBridgeModule>
+@interface Nrindy : RCTEventEmitter <RCTBridgeModule>
 
 @end
